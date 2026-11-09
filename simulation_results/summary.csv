@@ -1,0 +1,7 @@
+name,value
+R,109.5
+T,450
+step_duration,1750
+omega_c,0.019784733876505072
+tau_undirected,86.119919793470785
+tau_directed,2.6180339887498265

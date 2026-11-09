@@ -1,0 +1,10 @@
+__pycache__/
+
+# Large generated files. Run the code to make them (see README.md).
+simulation_results/*/A.csv
+simulation_results/*/S.csv
+simulation_results/*/X.csv
+simulation_results/*/Y.csv
+simulation_results/*/step.csv
+simulation_results/*/random_*.csv
+rom_results/*/step_r5.csv
